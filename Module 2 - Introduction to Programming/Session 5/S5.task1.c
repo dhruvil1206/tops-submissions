@@ -1,5 +1,5 @@
 //Create a simple IPL Fan Bot that takes your favorite IPL team name asinput and uses if-else-if
-//statements to print a unique cheer messagefor each team (e.g., 'Go Mumbai Indians!', 
+//statements to print a unique cheer message for each team (e.g., 'Go Mumbai Indians!', 
 //'Chennai Super Kings for the win!'). If the team is not recognized, print 'Team not found!'
 
 #include<stdio.h>
