@@ -1,0 +1,7 @@
+Write a simple C language program that accepts 10 integers from the user, 
+validates the input, finds the maximum, minimum, and arithmetic mean,
+sorts the numbers in ascending order using bubble sort, 
+and determines whether the mean is closer to the minimum, 
+closer to the maximum, or exactly halfway between them. 
+Use simple code suitable for a beginner. Handle invalid input and edge cases properly.
+Add comments to explain the code.

@@ -1,0 +1,4 @@
+I corrected the code to validate user input and handle invalid entries properly.
+I also checked the maximum and minimum values and corrected the bubble sort logic to arrange numbers in ascending order.
+The mean is compared with the midpoint between the minimum and maximum to determine which value it is closer to.
+These changes make the program more accurate and reliable.
