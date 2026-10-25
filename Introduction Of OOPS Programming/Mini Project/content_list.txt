@@ -1,0 +1,10 @@
+Title : myfirstvideo
+Platform : youtube
+Views : 500
+Status : published
+------------------
+Title : dancereel
+Platform : instagram
+Views : 2500
+Status : viral
+------------------
